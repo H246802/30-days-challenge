@@ -2,3 +2,4 @@
 
 - [day-01-sleep函数](https://github.com/h246802/30-days-challenge/issues/1)
 - [day-02-异步以及定时器](https://github.com/h246802/30-days-challenge/issues/2)
+- [day-03-](https://github.com/h246802/30-days-challenge/issues/3)
