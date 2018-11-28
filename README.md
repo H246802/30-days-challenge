@@ -7,3 +7,4 @@
 - [day-05-函数不同执行次数,打印不同](https://github.com/h246802/30-days-challenge/issues/5)
 - [day-06-函数返回类型的'=='比较](https://github.com/h246802/30-days-challenge/issues/6)
 - [day-07-promise基础使用](https://github.com/h246802/30-days-challenge/issues/7)
+- [day-08-对象集合的数组排序](https://github.com/h246802/30-days-challenge/issues/8)
