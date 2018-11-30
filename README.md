@@ -9,3 +9,4 @@
 - [day-07-promise基础使用](https://github.com/h246802/30-days-challenge/issues/7)
 - [day-08-对象集合的数组排序](https://github.com/h246802/30-days-challenge/issues/8)
 - [day-09-对象提取](https://github.com/h246802/30-days-challenge/issues/9)
+- [day-10-异步代码同步响应同时不干扰dom操作](https://github.com/h246802/30-days-challenge/issues/9)
