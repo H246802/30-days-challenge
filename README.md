@@ -12,3 +12,4 @@
 - [day-10-异步代码同步响应同时不干扰dom操作](https://github.com/h246802/30-days-challenge/issues/10)
 - [day-11-高阶函数传参处理](https://github.com/h246802/30-days-challenge/issues/11)
 - [day-12-字符串`isMatch`](https://github.com/h246802/30-days-challenge/issues/12)
+- [day-13-this指向](https://github.com/h246802/30-days-challenge/issues/13)
