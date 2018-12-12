@@ -17,3 +17,4 @@
 - [day-15-实现一个jsonp](https://github.com/h246802/30-days-challenge/issues/15)
 - [day-16-部分异步代码执行顺序](https://github.com/h246802/30-days-challenge/issues/16)
 - [day-17-异步代码执行顺序+](https://github.com/h246802/30-days-challenge/issues/17)
+- [day-19-数组分块](https://github.com/h246802/30-days-challenge/issues/19)
