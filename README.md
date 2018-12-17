@@ -19,3 +19,4 @@
 - [day-17-异步代码执行顺序+](https://github.com/h246802/30-days-challenge/issues/17)
 - [day-18-数组深拷贝](https://github.com/h246802/30-days-challenge/issues/18)
 - [day-19-数组分块](https://github.com/h246802/30-days-challenge/issues/19)
+- [day-20-canvas拖拽](https://github.com/h246802/30-days-challenge/issues/20)
