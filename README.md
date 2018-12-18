@@ -20,3 +20,4 @@
 - [day-18-数组深拷贝](https://github.com/h246802/30-days-challenge/issues/18)
 - [day-19-数组分块](https://github.com/h246802/30-days-challenge/issues/19)
 - [day-20-canvas拖拽](https://github.com/h246802/30-days-challenge/issues/20)
+- [day-21-自定义函数once](https://github.com/h246802/30-days-challenge/issues/21)
