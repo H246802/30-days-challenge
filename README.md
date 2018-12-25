@@ -21,4 +21,4 @@
 - [day-19-数组分块](https://github.com/h246802/30-days-challenge/issues/19)
 - [day-20-canvas拖拽](https://github.com/h246802/30-days-challenge/issues/20)
 - [day-21-自定义函数once](https://github.com/h246802/30-days-challenge/issues/21)
-- [day-22-数组排序(集合)](https://github.com/h246802/30-days-challenge/issues/22)
+- [day-22-数组排序](https://github.com/h246802/30-days-challenge/issues/22)
