@@ -22,5 +22,6 @@
 - [day-20-canvas拖拽](https://github.com/h246802/30-days-challenge/issues/20)
 - [day-21-自定义函数once](https://github.com/h246802/30-days-challenge/issues/21)
 - [day-22-数组排序](https://github.com/h246802/30-days-challenge/issues/22)
-- [day-23-数组去重](https://github.com/h246802/30-days-challenge/issues/22)
-- [day-24-自定义 EventBus](https://github.com/h246802/30-days-challenge/issues/22)
+- [day-23-数组去重](https://github.com/h246802/30-days-challenge/issues/23)
+- [day-24-自定义 EventBus](https://github.com/h246802/30-days-challenge/issues/24)
+- [day-25-自定义 vue-data](https://github.com/h246802/30-days-challenge/issues/25)
