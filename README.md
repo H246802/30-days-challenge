@@ -26,5 +26,4 @@
 - [day-24-自定义 EventBus](https://github.com/h246802/30-days-challenge/issues/24)
 - [day-25-自定义 vue-data](https://github.com/h246802/30-days-challenge/issues/25)
 - [day-26-自定义曝光组件](https://github.com/h246802/30-days-challenge/issues/26)
-- [day-27-diy-vue-computed](https://github.com/h246802/30-days-challenge/issues/27)
-
+- [day-27-自定义vue-computed](https://github.com/h246802/30-days-challenge/issues/27)
