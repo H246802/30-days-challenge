@@ -27,3 +27,4 @@
 - [day-25-自定义 vue-data](https://github.com/h246802/30-days-challenge/issues/25)
 - [day-26-自定义曝光组件](https://github.com/h246802/30-days-challenge/issues/26)
 - [day-27-自定义vue-computed](https://github.com/h246802/30-days-challenge/issues/27)
+- [day-28-函数防抖](https://github.com/h246802/30-days-challenge/issues/28)
