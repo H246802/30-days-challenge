@@ -29,3 +29,4 @@
 - [day-27-自定义vue-computed](https://github.com/h246802/30-days-challenge/issues/27)
 - [day-28-函数防抖](https://github.com/h246802/30-days-challenge/issues/28)
 - [day-29-函数节流](https://github.com/h246802/30-days-challenge/issues/29)
+- [day-30-声明提升](https://github.com/h246802/30-days-challenge/issues/30)
